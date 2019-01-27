@@ -14,7 +14,7 @@
        			 else
             		cout << "Bilangan Terbesar Adalah:" << C;
 ini hasilnya 
-![img](https://github.com/nurma11/praktikum2/blob/master/latihan1/WhatsApp%20Image%202019-01-26%20at%2001.31.22.jpeg)
+![img](https://github.com/nurma11/praktikum2/blob/master/latihan1/WhatsApp%20Image%202019-01-26%20at%2001.31.26.jpeg)
 
 # Latihan2 membuat penentuan terbesar dan terkecil dari 4 variabel. -Mendeklarasikan variabel n,nilai sebagai variabel input -Mendeklarasikan variabel i sebagai pembatas inputan/perulangan -Mendeklarasikan max sebagai nilai terbesar dan min nilai terkecil -Menginputkan nilai n dimana menunjukan banyak angka yang akan di input -menginputkan nilai nilai yang akan di bandingkan. Berikut kode lengkapnya
 
